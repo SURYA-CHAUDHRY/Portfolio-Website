@@ -51,3 +51,8 @@ function toggleMenu() {
       icon.src = icon.getAttribute("src-light");
     });
   }
+
+function openLinkInNewTab(url) {
+    window.open(url, '_blank');
+}
+  
