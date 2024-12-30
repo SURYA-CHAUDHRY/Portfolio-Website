@@ -1,0 +1,15 @@
+I am Surya Chaudhary, a curious learner and driven individual hailing from the small yet vibrant town of Moradabad, India. My life has been a journey of continuous learning, fueled by an insatiable thirst for knowledge and a relentless desire to excel.
+
+I spent my formative years at Jawahar Navodaya Vidyalaya, Moradabad, where I cultivated a love for academics and perseverance. My efforts bore fruit when I secured an impressive 96% in my 10th standard board examinations. Transitioning to Shri Sai Public School Dilari Govindpur for my 12th standard, I maintained my academic rigor, achieving an excellent 94%.
+
+In 2021, I was proud to secure an All India Rank of 14688 in the prestigious JEE Advanced, a testament to my dedication and hard work amidst fierce competition with over 16 lakh aspirants. This achievement paved the way for my admission to the Indian Institute of Technology (IIT), Jammu, where I am currently pursuing a B.Tech in Materials Engineering. Here, I’ve achieved a commendable CGPA of 7.95, with my expected graduation in 2025.
+
+My academic journey has been enriched by hands-on experiences and rigorous training. A standout moment was my internship at IIT Bombay in 2024, where I delved into advanced research on quantum dot heterostructures. Analyzing Sb concentrations and refining data processing techniques taught me precision, patience, and the value of collaborative efforts.
+
+In parallel, my interest in technology and innovation led me to develop a fully functional Amazon Clone website, showcasing my expertise in ReactJS, Firebase, and dynamic user interfaces. My passion for web development was further cemented through projects like my portfolio website, where I honed skills in HTML, CSS, and Bootstrap.
+
+Life has not been just about academics for me. I discovered my love for table tennis early on, representing my institutions in various competitive arenas. Whether it was winning at the Convoquer Intercollege Sports Tournament or reaching the quarterfinals of the state-level competition organized by the Jammu & Kashmir Police, sports have been a vital aspect of my life. Competing in the Inter IIT Sports Meet for consecutive years remains a cherished experience.
+
+My journey in programming and cybersecurity has been equally fulfilling. With over 400 questions solved on LeetCode, I’ve sharpened my problem-solving skills. Recognized among the top 5 students in Materials Engineering at IIT Jammu and ranked in the top 250 scholars from Navodaya Vidyalaya, I’ve always strived for excellence.
+
+As I stand on the cusp of new opportunities, I am excited to explore uncharted territories in materials engineering, programming, and beyond. My journey thus far has been one of discovery, growth, and unwavering determination. With every challenge I’ve faced, I’ve emerged stronger, ready to take on the next chapter of my life.
